@@ -4,7 +4,7 @@
   <div align="center">
     Sistema base con mecánicas de Acciones.
     <br>
-    <small> <b><i>Show your support!</i> </b></small>
+    <small> <b><i>Siguenos!</i> </b></small>
     <br>
     <a href="https://twitter.com/cuervoforjador">
       <img height="20px" title="Cuervo Forjador in Twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">
