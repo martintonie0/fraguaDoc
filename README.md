@@ -1,23 +1,19 @@
 # Fragua para FoundryVTT
 <p align="center">
-  <img height="400" src="./assets/images/Raven.png" />
+  <img height="100" src="./assets/images/Raven.png" />
+  <div align="center">
+    Sistema base con mecánicas de Acciones.
+    <br>
+    <small> <b><i>Show your support!</i> </b></small>
+    <br>
+    <a href="https://github.com/MarketingPipeline/Simply-Docs">
+      <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Simply-Docs.svg?style=social&label=Star">
+    </a>
+    <a href="https://github.com/MarketingPipeline/Simply-Docs/fork">
+      <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Simply-Docs.svg?style=social&label=Fork">
+    </a>
+  </div>
 </p>
-<div align="center">
-Sistema base con mecánicas de Acciones.
-  
-  
-   <br>
-  <small> <b><i>Show your support!</i> </b></small>
-  <br>
-   <a href="https://github.com/MarketingPipeline/Simply-Docs">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Simply-Docs.svg?style=social&label=Star">
-  </a>
-  <a href="https://github.com/MarketingPipeline/Simply-Docs/fork">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Simply-Docs.svg?style=social&label=Fork">
-  </a>
-   </p>  
- </div>
-
 
 ## Features:
   * Write in <b>Pure HTML</b> - there are NO CSS classes as it uses a <b>classless CSS <a href="https://github.com/kevquirk/simple.css">framework</a></b>
