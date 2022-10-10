@@ -6,11 +6,8 @@
     <br>
     <small> <b><i>Show your support!</i> </b></small>
     <br>
-    <a href="https://github.com/MarketingPipeline/Simply-Docs">
-      <img title="Star on GitHub" src="https://img.shields.io/github/stars/MarketingPipeline/Simply-Docs.svg?style=social&label=Star">
-    </a>
-    <a href="https://github.com/MarketingPipeline/Simply-Docs/fork">
-      <img title="Fork on GitHub" src="https://img.shields.io/github/forks/MarketingPipeline/Simply-Docs.svg?style=social&label=Fork">
+    <a href="https://twitter.com/cuervoforjador">
+      <img title="Cuervo Forjador in Twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">
     </a>
   </div>
 </p>
