@@ -7,7 +7,7 @@
     <small> <b><i>Show your support!</i> </b></small>
     <br>
     <a href="https://twitter.com/cuervoforjador">
-      <img title="Cuervo Forjador in Twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">
+      <img height="20px" title="Cuervo Forjador in Twitter" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png">
     </a>
   </div>
 </p>
