@@ -1,9 +1,9 @@
-# Simply Docs
+# Fragua para FoundryVTT
 <p align="center">
-  <img height="400" src="https://i.imgur.com/lRDqqVA.png" />
+  <img height="400" src="./assets/images/Raven.png" />
 </p>
 <div align="center">
-A simple, fast, free & easy to use static based plain HTML template. <br>  That allows you to make a beautiful personal / blog or technical documentation website really quickly.
+Sistema base con mecánicas de Acciones.
   
   
    <br>
